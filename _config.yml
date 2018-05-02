@@ -109,8 +109,4 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
-# hexo-admin authentification
-admin:
-  username: root
-  password_hash: $2a$10$/3PMPHZWMeqUkDlBkjgoqeAJ0TiXrwNT8ud99aKNerxZZaj585HHC
-  secret: Kobe Bryant is my favorite NBA star
+
