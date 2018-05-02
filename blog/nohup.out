@@ -1,0 +1,1820 @@
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+ERROR Process failed: layout/_macro/my-copyright.swig
+Error: Unexpected end of tag "if" on line 30 in file /root/blog/themes/next/layout/_macro/my-copyright.swig.
+    at Object.exports.throwError (/root/blog/node_modules/swig-templates/lib/utils.js:183:9)
+    at parseTag (/root/blog/node_modules/swig-templates/lib/parser.js:532:15)
+    at /root/blog/node_modules/swig-templates/lib/parser.js:640:15
+    at Object.exports.each (/root/blog/node_modules/swig-templates/lib/utils.js:45:11)
+    at Object.exports.parse (/root/blog/node_modules/swig-templates/lib/parser.js:624:9)
+    at exports.Swig.parse (/root/blog/node_modules/swig-templates/lib/swig.js:354:19)
+    at Object.precompile (/root/blog/node_modules/swig-templates/lib/swig.js:486:23)
+    at Object.compile (/root/blog/node_modules/swig-templates/lib/swig.js:605:16)
+    at Function.swigRenderer.compile (/root/blog/node_modules/hexo/lib/plugins/renderer/swig.js:41:47)
+    at Theme._View.View.View._precompile (/root/blog/node_modules/hexo/lib/theme/view.js:117:31)
+    at Theme._View.View.View (/root/blog/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/root/blog/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/root/blog/node_modules/hexo/lib/theme/index.js:71:20)
+    at file.read.then.result (/root/blog/node_modules/hexo/lib/theme/processors/view.js:14:14)
+    at tryCatcher (/root/blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/root/blog/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/root/blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at Promise._resolveCallback (/root/blog/node_modules/bluebird/js/release/promise.js:432:57)
+    at Promise._settlePromiseFromHandler (/root/blog/node_modules/bluebird/js/release/promise.js:524:17)
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Unhandled rejection TypeError: expecting an array or an iterable object but got [object Null]
+    at apiRejection (/root/blog/node_modules/bluebird/js/release/promise.js:10:27)
+    at ReductionPromiseArray.init (/root/blog/node_modules/bluebird/js/release/promise_array.js:63:19)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/root/blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at Promise._resolveCallback (/root/blog/node_modules/bluebird/js/release/promise.js:432:57)
+    at Promise._settlePromiseFromHandler (/root/blog/node_modules/bluebird/js/release/promise.js:524:17)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:689:18)
+    at Async._drainQueue (/root/blog/node_modules/bluebird/js/release/async.js:133:16)
+    at Async._drainQueues (/root/blog/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues (/root/blog/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:794:20)
+    at tryOnImmediate (timers.js:752:5)
+    at processImmediate [as _immediateCallback] (timers.js:729:5)
+Unhandled rejection TypeError: expecting an array or an iterable object but got [object Null]
+    at apiRejection (/root/blog/node_modules/bluebird/js/release/promise.js:10:27)
+    at ReductionPromiseArray.init (/root/blog/node_modules/bluebird/js/release/promise_array.js:63:19)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/root/blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at Promise._resolveCallback (/root/blog/node_modules/bluebird/js/release/promise.js:432:57)
+    at Promise._settlePromiseFromHandler (/root/blog/node_modules/bluebird/js/release/promise.js:524:17)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:689:18)
+    at Async._drainQueue (/root/blog/node_modules/bluebird/js/release/async.js:133:16)
+    at Async._drainQueues (/root/blog/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues (/root/blog/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:794:20)
+    at tryOnImmediate (timers.js:752:5)
+    at processImmediate [as _immediateCallback] (timers.js:729:5)
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+Unhandled rejection TypeError: expecting an array or an iterable object but got [object Null]
+    at apiRejection (/root/blog/node_modules/bluebird/js/release/promise.js:10:27)
+    at ReductionPromiseArray.init (/root/blog/node_modules/bluebird/js/release/promise_array.js:63:19)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/root/blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at Promise._resolveCallback (/root/blog/node_modules/bluebird/js/release/promise.js:432:57)
+    at Promise._settlePromiseFromHandler (/root/blog/node_modules/bluebird/js/release/promise.js:524:17)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:689:18)
+    at Async._drainQueue (/root/blog/node_modules/bluebird/js/release/async.js:133:16)
+    at Async._drainQueues (/root/blog/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues (/root/blog/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:794:20)
+    at tryOnImmediate (timers.js:752:5)
+    at processImmediate [as _immediateCallback] (timers.js:729:5)
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: ENOENT: no such file or directory, open '/root/blog/themes/next/node_modules/.staging/mout-c283595a/src/array/append.js'
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+FATAL Port 80 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE 0.0.0.0:80
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at doListen (net.js:1517:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+(node:30151) [DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+(node:30324) [DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+Unhandled rejection WarehouseError: ID `source/_drafts/第一篇博客测试.md` has been used
+    at new WarehouseError (/root/blog/node_modules/warehouse/lib/error.js:17:11)
+    at Database._Model.Model.Model._insertOne (/root/blog/node_modules/warehouse/lib/model.js:185:27)
+    at /root/blog/node_modules/warehouse/lib/model.js:214:17
+    at tryCatcher (/root/blog/node_modules/bluebird/js/release/util.js:16:23)
+    at /root/blog/node_modules/bluebird/js/release/using.js:185:26
+    at tryCatcher (/root/blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/root/blog/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/root/blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/root/blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/root/blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at Promise._settlePromise (/root/blog/node_modules/bluebird/js/release/promise.js:574:26)
+    at Promise._settlePromise0 (/root/blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/root/blog/node_modules/bluebird/js/release/promise.js:693:18)
+    at Async._drainQueue (/root/blog/node_modules/bluebird/js/release/async.js:133:16)
+    at Async._drainQueues (/root/blog/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues (/root/blog/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:794:20)
+    at tryOnImmediate (timers.js:752:5)
+    at processImmediate [as _immediateCallback] (timers.js:729:5)
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+(node:15207) [DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+(node:25635) [DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+(node:26977) [DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+INFO  Bye!
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
+(node:26990) [DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.
+INFO  [7mHEXO-HELPER-LIVE2D[27m: Loaded model from npm-module(1), live2d-widget-model-tororo@1.0.5 from '/root/blog/node_modules/live2d-widget-model-tororo/assets'
+INFO  Start processing
+WARN  ===============================================================
+WARN  ========================= ATTENTION! ==========================
+WARN  ===============================================================
+WARN   NexT repository is moving here: https://github.com/theme-next 
+WARN  ===============================================================
+WARN   It's rebase to v6.0.0 and future maintenance will resume there
+WARN  ===============================================================
+INFO  Hexo is running at http://localhost:80/. Press Ctrl+C to stop.
