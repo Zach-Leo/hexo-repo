@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[第一篇博客]]></title>
+    <url>%2F2018%2F04%2F30%2F%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[这是我的第一篇博客，在历时三周断断续续的学习以及调试之后我的博客网站正式建立起来。其中的知识以及技术包括简单的vps服务器搭建，hexo框架以及Next主题框架的学习包括一些简单的前端知识有时间我会详细介绍。 之所以决定开始写博客一方面是为了让自己日常学习的碎片化的知识能够被整理起来，另外就是想要把自己利用零碎时间所想的一些稀奇古怪的问题记录下来。我一直觉得其实很多绝妙的点子往往就是灵光一现转瞬即逝，或者说有的时候我们我觉得我们的idea很蠢只是因为当时的科学技术或者当时的社会风气不够充分，但是当你几个月之后或者几年之后再看看当时的想法，可能觉得可行了或者又对当时的想法有了新的看法。 正如曾子曾经说过 “吾日三省吾身”，反省自己是自身进步很关键的一步，而记录我们每天的所思所想就是我们反省自己的前提。这也是博客的重要意义之一。 最后我想感谢在我建立自己博客过程中给予我帮助的人@管大神,@伟哥以及各种开源社区贡献者。]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+        <tag>瞎想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F04%2F30%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
